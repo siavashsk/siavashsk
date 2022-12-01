@@ -1,8 +1,4 @@
-<img
-  src="![wp6590692](https://user-images.githubusercontent.com/86296150/205174347-70fe73a7-bbe6-406a-82c2-7c14aefcf8ed.jpg)"
-  height="240"
-  width="420"
-/>
+![wp6590692](https://user-images.githubusercontent.com/86296150/205174347-70fe73a7-bbe6-406a-82c2-7c14aefcf8ed.jpg)
 <h1 align="center">Hi 👋, I'm Siavash</h1>
 <h3 align="center">
   Front-End Engineer experienced with React ,Next passionate to explore
