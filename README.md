@@ -1,8 +1,7 @@
 <img
   src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapercave.com%2Fsimple-space-wallpapers&psig=AOvVaw0DQcss6xwNW1hEWANRfcwj&ust=1670020513163000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNCxoa692fsCFQAAAAAdAAAAABAo"
-  align="center"
-  height="300"
-  width="440"
+  height="240"
+  width="420"
 />
 <h1 align="center">Hi 👋, I'm Siavash</h1>
 <h3 align="center">
