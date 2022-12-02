@@ -5,9 +5,9 @@
   Javascript and develop reusable, clean and responsive web applications.
 </h3>
 
-- 🔭 I’m currently working on [nextjs-teslaclone](https://github.com/siavashsk/teslaclone-next) - 
-👨‍💻 All of my projects are available at [www.siavashkhani.ir](www.siavashkhani.ir) -
-📫 How to reach me **siavash.khani200@gmail.com**
+- 🔭 I’m currently working on [nextjs-teslaclone](https://github.com/siavashsk/teslaclone-next) 
+- - 👨‍💻 All of my projects are available at [www.siavashkhani.ir](www.siavashkhani.ir) 
+- -📫 How to reach me **siavash.khani200@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
