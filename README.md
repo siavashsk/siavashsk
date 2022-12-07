@@ -21,16 +21,8 @@
       height="30"
       width="40"
   /></a>
-  <a
-    href="https://codepen.io/Siavash_sk"
-    target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen-alt.svg"
-      alt="codepen"
-      height="30"
-      width="40"
-  /></a>
+  <a href="https://codepen.io/https://codepen.io/siavash_sk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/siavash_sk" height="30" width="40" /></a>
+<a href="https://dev.to/https://dev.to/siavashsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/siavashsk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
