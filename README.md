@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Siavash</h1>
 <h3 align="center">
   Front-End Engineer experienced with React ,Next passionate to explore
-  Javascript and develop reusable, clean and responsive web applications.....
+  Javascript and develop reusable, clean and responsive web applications....
 </h3>
 
 <!-- 🔭 I’m currently working on [nextjs-teslaclone](https://github.com/siavashsk/teslaclone-next)- -->
