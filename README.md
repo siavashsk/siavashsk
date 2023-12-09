@@ -116,13 +116,13 @@
 
 <p align="center">
   <a href="https://github.com/siavashsk">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=siavashsk&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=siavashsk&theme=radical&border=7F3FBF&background=0D1117" alt="Siavash's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/siavashsk">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siavashsk&theme=radical" alt="Al Siam's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siavashsk&theme=radical" alt="Siavash's GitHub Contribution"/>
   </a>
 </p>
 
