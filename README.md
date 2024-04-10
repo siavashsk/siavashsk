@@ -7,7 +7,7 @@
 </h3>
 
 <!-- 🔭 I’m currently working on [nextjs-teslaclone](https://github.com/siavashsk/teslaclone-next)- -->
-- 💬 Ask me about **Javascript, React and Typescript**
+- 💬 Ask me about **Javascript, React, Typescript and Nextjs**
 - 👨‍💻 All of my projects are available at [www.siavashkhani.ir](https://www.siavashkhani.ir)
 - 📫 How to reach me **siavashkhani.work@gmail.com**
 
