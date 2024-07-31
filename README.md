@@ -1,5 +1,5 @@
 ![d8282d96170aa0ee6f5760667a291ec0](https://user-images.githubusercontent.com/86296150/205175982-4d16133f-ab9f-403b-9622-e31b753178a9.png)
-<h1 align="center">Hi 👋, I'm Siavash</h1>
+<h1 align="center">Hi 👋, I'm Siyavash</h1>
 <h3 align="center">
   Front-End Engineer experienced with React ,Next passionate to explore
   Javascript and develop reusable, clean and responsive web applications.
@@ -9,17 +9,17 @@
 <!-- 🔭 I’m currently working on [nextjs-teslaclone](https://github.com/siavashsk/teslaclone-next)- -->
 - 💬 Ask me about **Javascript, React, Typescript and Nextjs**
 - 👨‍💻 All of my projects are available at [www.siavashkhani.ir](https://www.siavashkhani.ir)
-- 📫 How to reach me **siavashkhani.work@gmail.com**
+- 📫 How to reach me **siyavash.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a
-    href="https://linkedin.com/in/https://www.linkedin.com/in/siavash-khani-297541210"
+    href="https://linkedin.com/in/https://www.linkedin.com/in/siyavash-khani-297541210"
     target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="https://www.linkedin.com/in/siavash-khani-297541210"
+      alt="https://www.linkedin.com/in/siyavash-khani-297541210"
       height="30"
       width="40"
   /></a>
