@@ -8,7 +8,7 @@
 
 <!-- 🔭 I’m currently working on [nextjs-teslaclone](https://github.com/siavashsk/teslaclone-next)- -->
 - 💬 Ask me about **Javascript, React, Typescript and Nextjs**
-- 👨‍💻 All of my projects are available at [www.siavashkhani.ir](https://www.siavashkhani.ir)
+- 👨‍💻 All of my projects are available at [www.siyavashdev.ir](https://www.siavashkhani.ir)
 - 📫 How to reach me **siyavash.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
