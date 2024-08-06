@@ -121,31 +121,31 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="[https://jsonnet.org/img/isologo.svg](https://www.datocms-assets.com/98835/1684410508-image-7.png)" width="48" height="48" alt="Jsonnet" />
+        <img src="https://jsonnet.org/img/isologo.svg](https://www.datocms-assets.com/98835/1684410508-image-7.png" width="48" height="48" alt="Jsonnet" />
       </a>
       <br>Nextjs
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="[./img/typescript-original.svg](https://cdn.worldvectorlogo.com/logos/typescript-2.svg)" width="48" height="48" alt="TypeScript" />
+        <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="[https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png)" width="48" height="48" alt="Kubernetes" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width="48" height="48" alt="Kubernetes" />
       </a>
       <br>Git
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="[./img/docker-original.svg](https://cdn.icon-icons.com/icons2/2699/PNG/512/tailwindcss_logo_icon_167923.png)" width="48" height="48" alt="Docker" />
+        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tailwindcss_logo_icon_167923.png" width="48" height="48" alt="Docker" />
       </a>
       <br>TailwindCSS
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="[./img/debian-original.svg](https://mui.com/static/logo.png)" width="48" height="48" alt="Debian" />
+        <img src="https://mui.com/static/logo.png" width="48" height="48" alt="Debian" />
       </a>
       <br>Material UI
     </td>
