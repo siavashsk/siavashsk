@@ -127,4 +127,14 @@
   </a>
 </p>
 
+<div align="center">
+	<br>
+		<img src="https://github.com/wrapperup/wrapperup/blob/master/good-times.svg" width="400px">
+	<br>
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/skills.svg">
+  <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/skills"> -->
+</p>
 
