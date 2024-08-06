@@ -1,9 +1,8 @@
-![d8282d96170aa0ee6f5760667a291ec0](https://user-images.githubusercontent.com/86296150/205175982-4d16133f-ab9f-403b-9622-e31b753178a9.png)
+<!-- ![d8282d96170aa0ee6f5760667a291ec0](https://user-images.githubusercontent.com/86296150/205175982-4d16133f-ab9f-403b-9622-e31b753178a9.png) -->
 <h1 align="center">Hi 👋, I'm Siyavash</h1>
 <h3 align="center">
   Front-End Engineer experienced with React ,Next passionate to explore
   Javascript and develop reusable, clean and responsive web applications.
-
 </h3>
 
 <!-- 🔭 I’m currently working on [nextjs-teslaclone](https://github.com/siavashsk/teslaclone-next)- -->
@@ -25,7 +24,7 @@
   /></a>
   <a href="https://codepen.io/siavash_sk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/siavash_sk" height="30" width="40" /></a>
 </p>
-
+<!-- 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a
@@ -105,7 +104,59 @@
     />
   </a>
 </p>
-
+-->
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+      </a>
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>Nextjs
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>TailwindCSS
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+      </a>
+      <br>Material UI
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Redux
+    </td>
+  </tr>
+</table>
 
 <p align="left">
   <a href="https://github.com/siavashsk?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -127,9 +178,3 @@
 		<img src="https://github.com/wrapperup/wrapperup/blob/master/good-times.svg" width="400px">
 	<br>
 </div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/skills.svg">
-  <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/skills"> -->
-</p>
-
