@@ -115,13 +115,13 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://www.svgrepo.com/show/303500/react-1-logo.svg" width="48" height="48" alt="Python" />
+        <img src="https://cdn.iconscout.com/icon/free/png-256/free-react-3521666-2945110.png?f=webp&w=256" width="48" height="48" alt="Python" />
       </a>
       <br>React
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg](https://www.datocms-assets.com/98835/1684410508-image-7.png" width="48" height="48" alt="Jsonnet" />
+        <img src="https://www.datocms-assets.com/98835/1684410508-image-7.png" width="48" height="48" alt="Jsonnet" />
       </a>
       <br>Nextjs
     </td>
