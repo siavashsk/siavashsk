@@ -109,49 +109,49 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="48" height="48" alt="Golang" />
       </a>
       <br>Javascript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="https://www.svgrepo.com/show/303500/react-1-logo.svg" width="48" height="48" alt="Python" />
       </a>
       <br>React
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="[https://jsonnet.org/img/isologo.svg](https://www.datocms-assets.com/98835/1684410508-image-7.png)" width="48" height="48" alt="Jsonnet" />
       </a>
       <br>Nextjs
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="[./img/typescript-original.svg](https://cdn.worldvectorlogo.com/logos/typescript-2.svg)" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="[https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png)" width="48" height="48" alt="Kubernetes" />
       </a>
       <br>Git
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="[./img/docker-original.svg](https://cdn.icon-icons.com/icons2/2699/PNG/512/tailwindcss_logo_icon_167923.png)" width="48" height="48" alt="Docker" />
       </a>
       <br>TailwindCSS
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+        <img src="[./img/debian-original.svg](https://mui.com/static/logo.png)" width="48" height="48" alt="Debian" />
       </a>
       <br>Material UI
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+        <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="48" height="48" alt="Grafana" />
       </a>
       <br>Redux
     </td>
