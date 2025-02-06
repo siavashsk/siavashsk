@@ -5,7 +5,6 @@
   Javascript and develop reusable, clean and responsive web applications.
 </h3>
 
-<!-- 🔭 I’m currently working on [nextjs-teslaclone](https://github.com/siavashsk/teslaclone-next)- -->
 - 💬 Ask me about **Javascript, React, Typescript and Nextjs**
 - 👨‍💻 All of my projects are available at [www.siyadev.ir](https://www.siyadev.ir)
 - 📫 How to reach me **siyavash.work@gmail.com**
